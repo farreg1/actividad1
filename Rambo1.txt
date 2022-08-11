@@ -1,3 +1,7 @@
 Es una pelicula de la guerra de vietnam
 Prueba 2R
+<<<<<<< HEAD
 hola que tal como va
+=======
+Algo que tenga sentido
+>>>>>>> 5e49fabdd3ec5e449afa8b2d1481d14e5283b716
